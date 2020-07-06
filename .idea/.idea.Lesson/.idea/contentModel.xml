@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Любовь\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Любовь\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Lesson.1059500711.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Любовь\Desktop\Lesson" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Controller" t="Include">
+            <e p="BaseController.cs" t="Include" />
+            <e p="BotController.cs" t="Include" />
+            <e p="FlashLightController.cs" t="Include" />
+            <e p="InputController.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="SelectionController.cs" t="Include" />
+            <e p="TimeRemainingController.cs" t="Include" />
+            <e p="WeaponController.cs" t="Include" />
+          </e>
+          <e p="Enum" t="Include">
+            <e p="AmmunitionType.cs" t="Include" />
+            <e p="MouseButton.cs" t="Include" />
+            <e p="MouseScrollWheel.cs" t="Include" />
+            <e p="StateBot.cs" t="Include" />
+          </e>
+          <e p="Helper" t="Include">
+            <e p="BulletProjector.cs" t="Include" />
+            <e p="CustomDebug.cs" t="Include" />
+            <e p="Extention.cs" t="Include" />
+            <e p="InfoCollision.cs" t="Include" />
+            <e p="Timer.cs" t="Include" />
+          </e>
+          <e p="Interface" t="Include">
+            <e p="IInitialization.cs" t="Include" />
+            <e p="IMotor.cs" t="Include" />
+            <e p="IOnUpdate.cs" t="Include" />
+            <e p="ISelectObj.cs" t="Include" />
+            <e p="ISetDamage.cs" t="Include" />
+            <e p="ITimeRemaining.cs" t="Include" />
+          </e>
+          <e p="Main.cs" t="Include" />
+          <e p="Model" t="Include">
+            <e p="Ai" t="Include">
+              <e p="BodyBot.cs" t="Include" />
+              <e p="Bot.cs" t="Include" />
+              <e p="HeadBot.cs" t="Include" />
+              <e p="Patrol.cs" t="Include" />
+              <e p="Vision.cs" t="Include" />
+            </e>
+            <e p="Aim.cs" t="Include" />
+            <e p="Ammunition.cs" t="Include" />
+            <e p="BaseObjectScene.cs" t="Include" />
+            <e p="Bullet.cs" t="Include" />
+            <e p="Clip.cs" t="Include" />
+            <e p="Environment.cs" t="Include" />
+            <e p="FlashLightModel.cs" t="Include" />
+            <e p="Gun.cs" t="Include" />
+            <e p="Inventory.cs" t="Include" />
+            <e p="UnitMotor.cs" t="Include" />
+            <e p="Wall.cs" t="Include" />
+            <e p="Weapon.cs" t="Include" />
+          </e>
+          <e p="Test" t="Include">
+            <e p="DestroyPoint.cs" t="Include" />
+            <e p="MovingPoints.cs" t="Include" />
+          </e>
+          <e p="View" t="Include">
+            <e p="AimUiText.cs" t="Include" />
+            <e p="FlashLightUiBar.cs" t="Include" />
+            <e p="FlashLightUiText.cs" t="Include" />
+            <e p="SelectionObjMessageUi.cs" t="Include" />
+            <e p="UiInterface.cs" t="Include" />
+            <e p="WeaponUiText.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Lesson.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
